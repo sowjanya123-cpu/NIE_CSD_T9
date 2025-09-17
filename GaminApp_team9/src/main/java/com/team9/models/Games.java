@@ -1,4 +1,4 @@
-package main.java.com.models;
+package com.team9.models;
 
 public class Games {
     private String id;

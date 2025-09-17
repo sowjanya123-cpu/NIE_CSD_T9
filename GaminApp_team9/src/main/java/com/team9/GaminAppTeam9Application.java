@@ -1,4 +1,4 @@
-package com.team9.GaminApp_team9;
+package com.team9;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
