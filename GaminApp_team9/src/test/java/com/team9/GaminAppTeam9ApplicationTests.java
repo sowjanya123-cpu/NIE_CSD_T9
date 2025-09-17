@@ -1,4 +1,4 @@
-package com.team9.GaminApp_team9;
+package com.team9;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.team9.GaminApp_team9;
+package com.team9;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

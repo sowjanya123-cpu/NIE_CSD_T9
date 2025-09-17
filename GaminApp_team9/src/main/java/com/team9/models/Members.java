@@ -1,4 +1,4 @@
-package main.java.com.models; 
+package com.team9.models; 
 public class Members {
     private String id;
     private String name;
